@@ -1,4 +1,4 @@
 # EDS-Uniandes
 En este repositorio se encuentran los archivos correspondientes a las actividades realizadas en el capítulo de EDS, Uniandes.
 
-Se puede encontrar el video correspondiente en el [Link](https://youtu.be/sKNU2aoyvXI).
+El video correspondiente al diseño y preparación de un esquemático y su _footprint_ se encuentra en el [Link](https://youtu.be/sKNU2aoyvXI) de Youtube.
